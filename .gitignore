@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Netlify CLI state
+.netlify/
+
+# Build output / misc
+dist/
+.DS_Store
+Thumbs.db
